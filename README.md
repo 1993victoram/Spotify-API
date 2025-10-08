@@ -22,6 +22,8 @@ Permite ver las canciones que están sonando, gestionar playlists y canciones, v
 ## 🖼 Capturas de pantalla
 
 ![Configuración de autenticación][(https://github.com/1993victoram/Spotify-API/raw/main/e88e4432-a5ff-4565-bc0b-9f30122891e7.png)  ](https://github.com/1993victoram/Spotify-API/blob/main/Autenticacion.png)
+
+
 ![Menú principal de la app][(https://github.com/1993victoram/Spotify-API/raw/main/3dddce26-01fb-4a93-b0e2-4a8f2b0423e1.png)](https://github.com/1993victoram/Spotify-API/blob/main/Menu%20principal.png)
 
 ---
